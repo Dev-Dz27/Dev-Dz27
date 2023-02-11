@@ -53,6 +53,6 @@ My name is Youcef, and I'm programming enthusiast, interested in Web development
 ![Dev-Dz27' GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Dz27&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dz27&theme=dark&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-[![Dev-Dz27's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Dz27)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Dev-Dz27's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Dz27)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <hr/>
