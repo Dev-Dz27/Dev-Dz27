@@ -39,18 +39,28 @@ I'm a self-taught passionate React developer from Algeria 🇩🇿
 
 <div>
 <img alt='react' src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'/>
+ <img alt='react' src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white'/>
 </div>
 
 <br/>
 
 <div>
 <img alt='tailwind' src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
-<img alt='jwt' src='https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens'/>
+<img alt='' src='https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens'/>
 <img alt='reactquery' src='https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white'/>
 <img alt='sass' src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white'/>
 <img alt='jest' src='https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white'/>
 <img alt='mysql' src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'/>
 </div>
+
+<br/>
+
+<div>
+<img alt='adobe Photoshop' src='https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white'/>
+
+</div>
+
+
 <hr>
 <h3 style="color: #a87cf8">📈Stats<span style="color: grey; font-weight: 600">.get()</span>
 </h3>
