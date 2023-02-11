@@ -2,7 +2,7 @@
 <span style="color: #a87cf8; font-weight: 600">"Hello World!🫡"</span>
 )</h3>
 <p>
-My name is Yaakov, and I'm programming enthusiast, interested in Web development, both from Frontend and Back-end side. In my spare time I like to play music instruments and learn new things.
+My name is Youcef, and I'm programming enthusiast, interested in Web development, both from Frontend and Back-end side. In my spare time I like to play music instruments and learn new things.
 </p>
 <hr>
 
@@ -52,6 +52,7 @@ My name is Yaakov, and I'm programming enthusiast, interested in Web development
 
 ![sextus-empiricus' GitHub stats](https://github-readme-stats.vercel.app/api?username=sextus-empiricus&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sextus-empiricus&theme=dark&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dz27&theme=dark&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Dz27)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr/>
