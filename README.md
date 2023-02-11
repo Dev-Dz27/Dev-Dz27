@@ -1,15 +1,20 @@
 <h2 style="color: gray; font-weight: 500">console.log(
-<span style="color: #a87cf8; font-weight: 600">"Hello World!🫡"</span>
+<span style="color: #a87cf8; font-weight: 600">"Hello World!"</span>
 )</h3>
-<p>
-My name is Youcef, and I'm programming enthusiast, interested in Web development, both from Frontend and Back-end side. In my spare time I like to play music instruments and learn new things.
-</p>
-<hr>
+
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Youcef. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+
+I'm a self-taught passionate React developer from Algeria 🇩🇿
+
 
 <h3 style="color: #a87cf8">🛠️TechStack<span style="color: grey; font-weight: 600">.get()</span>
 </h3>
 <div>
 <img alt='html5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
+  
+  <img alt='tailwind' src='[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)'/>
 
 <img alt='css3' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
 </div>
