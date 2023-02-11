@@ -2,7 +2,7 @@
 <span style="color: #a87cf8; font-weight: 600">"Hello World!"</span>
 )</h3>
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Youcef. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+### Hi there 👋
 
 <br />
 
