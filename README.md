@@ -32,7 +32,6 @@ I'm a self-taught passionate React developer from Algeria 🇩🇿
 <div>
 <img alt='nodejs' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' />
 <img alt='express' src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge' />
-<!-- <img alt='nestjs' src='https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white' /> -->
 </div>
 
 <br/>
@@ -46,7 +45,6 @@ I'm a self-taught passionate React developer from Algeria 🇩🇿
 
 <div>
 <img alt='tailwind' src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
-<!-- <img alt='mysql' src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'/> -->
 </div>
 
 <br/>
