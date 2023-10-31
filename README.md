@@ -1,12 +1,10 @@
-<h2 style="color: gray; font-weight: 500">console.log(
-<span style="color: #a87cf8; font-weight: 600">"Hello World!"</span>
-)</h3>
 
-### Hi there 👋
+
+# Hi there 👋
 
 <br />
 
-I'm a self-taught passionate React developer from Algeria 🇩🇿
+Self-taught web developer from Algeria 🇩🇿
 
 
 <h3 style="color: #a87cf8">🛠️TechStack<span style="color: grey; font-weight: 600">.get()</span>
@@ -32,6 +30,7 @@ I'm a self-taught passionate React developer from Algeria 🇩🇿
 <div>
 <img alt='nodejs' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' />
 <img alt='express' src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge' />
+<img alt='postman' src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge' />
 </div>
 
 <br/>
@@ -54,6 +53,10 @@ I'm a self-taught passionate React developer from Algeria 🇩🇿
 
 </div>
 
+<div>
+# Contact
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cysi/)](https://www.linkedin.com/in/cysi/)
+</div>
 
 <hr>
 <h3 style="color: #a87cf8">📈Stats<span style="color: grey; font-weight: 600">.get()</span>
