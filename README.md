@@ -53,10 +53,9 @@ Self-taught web developer from Algeria 🇩🇿
 
 </div>
 
-<div>
+
 # Contact
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cysi/)](https://www.linkedin.com/in/cysi/)
-</div>
 
 <hr>
 <h3 style="color: #a87cf8">📈Stats<span style="color: grey; font-weight: 600">.get()</span>
