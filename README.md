@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=35&size=45&duration=4000&pause=500&color=abd102&center=true&vCenter=true&width=480&lines=Chekkal+Islam;%7C+Web+Developer;%7C+English+Student%7C;)](https://git.io/typing-svg)
 
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=dev-Dz27&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
